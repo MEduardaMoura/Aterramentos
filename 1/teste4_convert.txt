@@ -1,0 +1,9 @@
+The conversion of the project was successful.
+
+The new directory structure is as follows:
+
+C:/Users/maria/Downloads/69KV novo/1
+    teste4.opj
+    teste4.dsn
+C:/Users/maria/Downloads/69KV novo/1/teste4-PSpiceFiles
+C:/Users/maria/Downloads/69KV novo/1/teste4-PSpiceFiles/SCHEMATIC1
